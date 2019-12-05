@@ -1,0 +1,3 @@
+## JavaEE on Azure
+
+We will run the Java EE app as a Docker container on [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/?WT.mc_id=medium-blog-abhishgu). The example used in this blog is a simple three-tier application that uses Java EE 8 specifications such as JAX-RS, EJB, CDI, JPA, JSF, Bean Validation. We will use the Payara Server to deploy the application and use PostgreSQL as the relational database
